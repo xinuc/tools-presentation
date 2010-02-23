@@ -53,5 +53,5 @@
 
 !SLIDE center
 # Thanx
-### http://github.com/xinuc/xinuc-tools
+### http://github.com/xinuc/tools-presentation
 ### http://xinuc-tools.heroku.com
