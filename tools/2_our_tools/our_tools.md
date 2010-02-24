@@ -31,7 +31,7 @@
 
 !SLIDE bullets incremental
 # Language
-* Ruby
+* Ruby ![ruby](ruby.jpg)
 * Javascript
 
 !SLIDE bullets incremental
@@ -44,7 +44,7 @@
 
 !SLIDE bullets incremental
 # Framework
-* Rails
+* Rails ![rails](rails.jpg)
 * jQuery
 
 !SLIDE bullets incremental
@@ -140,7 +140,7 @@
 # Project management
 
 !SLIDE bullets incremental
-# Pivotal tracker
+# Pivotal tracker ![pivotal](pivotal.png)
 
 !SLIDE bullets incremental
 # Next
@@ -170,13 +170,13 @@
 
 !SLIDE bullets incremental
 # Operating system
-* Ubuntu
+* Ubuntu ![ubuntu](ubuntu.png)
 
 !SLIDE bullets incremental
 # Next
-* RedHat?
-* FreeBSD
-* OpenBSD
+* RedHat? ![redhat](redhat.jpg)
+* FreeBSD ![freebsd](freebsd.jpg)
+* OpenBSD ![openbsd](openbsd.jpg)
 
 !SLIDE bullets incremental
 # Server

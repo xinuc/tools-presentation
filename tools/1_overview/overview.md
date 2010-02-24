@@ -18,15 +18,15 @@
 !SLIDE center
 
 ![Journey](journey.jpg)
-> ### Every craftsman starts his or her journey with a basic set of good-quality tools. --pragprog
+> ### Every craftsman starts his or her journey with a basic set of good-quality tools.
 > http://www.flickr.com/photos/dallaportfolio/2982621550/
 
 !SLIDE bullets incremental
 # These tools should be
-* lovingly choosen
-* built to last
-* perform specific jobs with little overlap with other tools
-* feel "right" in his hands
+* lovingly choosen! ![love](love.jpg)
+* built to last ![last](last.jpg)
+* perform specific jobs with little overlap with other tools ![swiss](swiss.jpg)
+* feel "right" in his hand ![grip](grip.jpg)
 
 !SLIDE
 
